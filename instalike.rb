@@ -3,7 +3,7 @@
 require 'rubygems'
 require 'instagram'
 
-# configure instagram gem
+# configure instagram gem, make sure to set token and id from http://instagram.com/developer/
 Instagram.configure do |config|
   config.access_token = ENV['ACCESS_TOKEN']
   config.client_id = ENV['CLIENT_ID']

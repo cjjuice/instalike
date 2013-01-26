@@ -3,7 +3,7 @@
 require 'rubygems'
 require 'instagram'
 
-# configure insagram gem
+# configure instagram gem
 Instagram.configure do |config|
   config.access_token = "2527616.fbc822f.4b471989b255461cbf2af9701913ade2"
   config.client_id = "2584bf66a2ba45009327a375182f91fc"

@@ -1,5 +1,3 @@
-#!/Users/cjbordeleau/.rvm/rubies/ruby-1.9.3-p125/bin/ruby
-
 require 'rubygems'
 require 'instagram'
 
